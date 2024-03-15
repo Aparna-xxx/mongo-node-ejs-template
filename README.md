@@ -1,0 +1,1 @@
+# mongo-node-ejs-template
